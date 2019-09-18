@@ -1,0 +1,60 @@
+
+@keyframes line-anim{
+	to{
+		stroke-dashoffset:0;
+	}
+}
+
+@keyframes fillAnim{
+	from{
+		fill:transparent;
+	}
+	to{
+		fill:white;
+	}
+}
+
+
+
+
+
+.animate-delay-250{
+	-webkit-animation-delay: 0.25s;
+	-animation-delay: 0.25s;
+}
+
+.animate-delay-500{
+	-webkit-animation-delay: 0.50s;
+	-animation-delay: 0.50s;
+}
+
+.animate-delay-750{
+	-webkit-animation-delay: 0.75s;
+	-animation-delay: 0.75s;
+}
+
+.animate-delay-1000{
+	-webkit-animation-delay: 1s;
+	-animation-delay: 1s;
+}
+
+.animate-delay-1250{
+	-webkit-animation-delay: 1.25s;
+	-animation-delay: 1.25s;
+}
+
+.animate-delay-1500{
+	-webkit-animation-delay: 1.50s;
+	-animation-delay: 1.50s;
+}
+
+.animate-delay-1750{
+	-webkit-animation-delay: 1.75s;
+	-animation-delay:1.75s;
+}
+
+.animate-delay-2000{
+	-webkit-animation-delay: 2s;
+	-animation-delay: 2s;
+}
+

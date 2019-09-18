@@ -1,0 +1,37 @@
+.cstm-btn{
+	padding:10px 30px;
+	margin:0;
+	border: none;
+}
+
+.cstm-btn-blue{
+	background: #2a76a2;
+	color:white;
+}
+
+
+.cstm-btn-orange{
+	background: #e49c13;
+	color:white;
+}
+
+
+.cstm-text-blue{
+	color: #2a76a2;
+}
+
+.cstm-text-orange{
+	color: #e49c13;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.text-none{
+	color: #333333;
+}
+
+a:link {
+  text-decoration: none;
+}
